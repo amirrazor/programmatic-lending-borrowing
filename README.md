@@ -1,6 +1,6 @@
 # Programmatic decentralized lending and borrowing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Programmatic decentralized lending and borrowing, using the Aave interfaces and Hardhat
 
 Try running some of the following tasks:
 
